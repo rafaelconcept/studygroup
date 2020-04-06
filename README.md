@@ -1,3 +1,6 @@
+
+<html>
+<body>
 <div style="width: 100%; border-radius: 0; max-width: 100%; border: 0 solid; padding-left: 250px; padding-right: 250px;">
     <div style="width: 100%; border: 2px solid; border-radius: 16px; padding-top: 20px; padding-bottom: 20px; margin-top: 10px; margin-bottom: 10px;">
         <div style="width: 300px; margin-left: auto; margin-right: auto;">
@@ -28,3 +31,5 @@
         </div>
     </div>
 </div>
+</body>
+</html>
