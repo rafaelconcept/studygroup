@@ -1,0 +1,214 @@
+.corpo{
+	border-style: groove;
+	border-radius: 10px; 
+	max-width: 1400px;
+}
+.bg1{
+	max-width: 400px;
+}
+.ident{
+	border-style: groove;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	background-color: #DCDCDC;
+}
+.bg2 h3{
+margin-top: 30px;
+}
+.bg2{
+	border-style: groove;
+	border-radius: 10px;
+	max-width: 900px;
+	padding: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.bg0{
+	max-width: 1300px;
+	padding: 20px;
+}
+.bg3{
+	margin-top: 30px;
+	border-style: groove;
+	border-radius: 10px;
+	background-color: #DCDCDC;
+}
+.foto{
+	border-style: groove;
+	border-radius: 10px;
+	margin-right: 2px;
+}
+.descri{
+	padding-left:-2px;
+}
+#msg{
+	width: 130px;
+	height: 100px;
+	resize: none;
+}
+.foto1{
+	border-style: groove;
+	border-radius: 10px;
+	max-width: 900px;
+	margin-top: 20px;
+}
+.search{
+	border-style: groove;
+	border-radius: 10px;
+	margin-top: 20px;
+	font-size: 17px;
+}
+.lupa{
+	position: relative;
+	bottom: -8px;
+	font-size: 20px;
+}
+.mat{
+	margin: 5px;
+}
+.bg4 h5{
+	padding-top: 30px;
+}
+.bg5 {
+	background-color: #696969;
+}
+.bg5 textarea{
+	width: 400px;
+	height: 150px;
+}
+.foto2{
+	padding-bottom: 12px;
+	padding-top: 12px;
+}
+.bg6{
+	background-color:#A9A9A9;
+	border-style: groove;
+	border-radius: 10px; 
+}
+.bg6 a{
+	color: black;
+	text-decoration: none;
+}
+.bg7 a{
+	color:black;
+	text-decoration: none;
+}
+.bg7 p{
+	padding-top: 17px;
+}
+.descrifinal{
+	border-style: groove;
+	border-radius: 10px;
+	background-color: white;
+}
+.ident input{
+	width: 120px;
+	margin-top: 7px;
+}
+.foto3{
+	border-radius: 30px;
+	margin-right: 20px;
+}
+.bg8{
+	background-color: #A9A9A9;
+	border-style:groove;
+	border-radius: 10px;
+	margin-left: 40px;
+}
+#botãopreto{
+margin-left: 30px;
+}
+#Descrição{
+	width: 350px;
+	height: 250px;
+	background-color: #A9A9A9;
+	text-decoration-color: black;
+
+}
+#Whats{
+	width: 350px;
+	height: 40px;
+	background-color: #A9A9A9;
+	text-decoration-color: black;
+}
+.altered{
+width: 100%;
+
+}
+.bg10{
+	background-color: #A9A9A9;
+	border-style:groove;
+	border-radius: 30px;
+}
+.bg10 h4{
+	padding-top: 8px;
+}
+#tmembros{
+	width: 750px;
+}
+#tgroup{
+	width: 800px;
+}
+.bg11{
+	background-color: #A9A9A9;
+	border-style:groove;
+	border-radius: 10px;
+}
+.bg12{
+	background-color: #808080;
+	border-color: #A9A9A9;
+	border-style: groove;
+	border-radius: 10px; 
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.bg12 a{
+	color: black;
+	text-decoration: none;
+}
+.bg12 span{
+	color: white;
+	text-decoration: none;
+}
+.bg13 {
+	background-color: #4682B4;
+}
+.bg14{
+	background-color: #B0C4DE;
+	border-style: groove;
+	border-color: #B0C4DE;
+	border-radius: 10px;
+}
+#ava{
+	background-color: #B0C4DE;
+	width: 600px;
+	height: 200px;
+	
+	margin-top: 30px;
+}
+.bg13 span {
+	color: white;
+	position: relative;
+	top: 30px;
+}
+
+
+go{
+	position: relative;
+	bottom: -8px;
+	font-size: 20px;
+	margin-top: 30px;
+}
+.lets{
+	background-color: #808000;
+	
+}
+.buscar{
+	
+}
+.entrar{
+	color: white;
+}
